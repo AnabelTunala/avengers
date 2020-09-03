@@ -1,6 +1,6 @@
 # Miembros
 
-* Nuevo avenger
+* Nuevo avenger Nick
 * Black panther
 * Black Widow
 * Capitán America
